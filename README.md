@@ -1,4 +1,7 @@
-# Jammer-433MHZ-ESP32
+# ESP32-RF-JAMMER
+
+## CHANGES PENDING - RECENTLY FORKED FOR MODIFICATION
+
 ## Aim
 The aim of this project is to design a 433MHz rf jammer using the CC1101 module and the ESP32 (ESP32-WROOM-32u here).
 
