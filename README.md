@@ -6,8 +6,9 @@
 
 ---
 
+
 ## Summary
-This project involves creating a portable device that uses an ESP32 microcontroller to function as Sub-GHz RF Jammer.
+This project involves creating a portable device that uses an ESP32 microcontroller to function as a Sub-GHz RF Jammer utilising a CC1101 module.
 
 
 ## Disclaimer 
