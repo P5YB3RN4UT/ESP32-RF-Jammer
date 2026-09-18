@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://www.media-underground.net/images/subghz.png">
+ <img src="https://raw.githubusercontent.com/P5YB3RN4UT/ESP32-RF-Jammer/master/img/interference.png">
 </p>
 
 <h3 align="center">ESP32 RF JAMMER</h3>
