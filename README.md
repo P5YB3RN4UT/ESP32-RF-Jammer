@@ -16,4 +16,4 @@ This tool is strictly for educational purposes only. The author does not take re
 
 --
 
-CHANGES PENDING - RECENTLY FORKED FOR MODIFICATION
+CHANGES PENDING - RECENTLY FORKED FOR MODIFICATION - WORK IN PROGRESS - DON'T DOWNLOAD YET
